@@ -1,0 +1,348 @@
+Block 1:
+COGIVEA SARL
+85 rue des maréchaux
+
+79410 Echiré
+Siret : 5015666160014
+
+Vendeur : nom
+
+Block 2:
+prenom
+
+PAGE
+
+facture en € n°
+
+Block 3:
+: 10003567
+
+DATE
+
+1/07/2008 |
+
+Block 4:
+wZzyWEndTXp_
+
+CLIENT
+
+ 
+
+entreprise test
+
+10 rue de la gare
+
+44170 Abbaretz
+
+Block 8:
+Siret $01.568,516,00014 Code APE: 6201Z
+
+Block 9:
+SARL au capital de 10000 euros
+
+   
+
+MODEDEREGLEMENT )  DATED'ECHEANCE | TVA Intracommunautaire
+C J
+
+Block 10:
+(wi072008
+
+Block 11:
+) C FR67501566616
+References : FACTURE EN EUROS N°10003567 _Livraison
+TVA] _ Code Tibelle
+
+Block 12:
+Quantite
+
+Block 13:
+| Unite |
+
+Block 14:
+P.ULHT. |
+
+Block 15:
+MTAT.
+2 |
+
+Block 16:
+FoRM2 — fromation autres (niveau 24, dénomination R27) 2 joumee 4400.00 2701.83
+frais de déptacement
+
+Block 17:
+compris
+2
+
+Block 18:
+| HEBER frais de gestion (remise : 10 %) 1 write 52.20 so7
+|socument envoyés par courier
+2 | prestis — |ouide
+
+Block 19:
+utitsateur otter 1 unite 0.00
+
+Block 20:
+0.00
+Palement  réception de la facture
+Le Total HT tient compte dune remise de 100 euros,
+
+Block 21:
+soit 3.51%
+(___ BASES HT mrtva_[%tva | TOTAUX [euRos
+z 275220 3243] 1960 yorune
+
+Block 22:
+| 320163
+wn: 275220
+
+Block 23:
+acouore 0.00
+twa: 53343 neraraver | 329163
+
+Block 1:
+COGIVEA SARL
+85 rue des maréchaux
+
+79410 Echiré
+Siret : 5015666160014
+
+Vendeur : nom
+Block 2:
+prenom
+
+PAGE
+
+facture en € n°
+Block 3:
+: 10003567
+
+DATE
+
+1/07/2008 |
+Block 4:
+wZzyWEndTXp_
+
+CLIENT
+
+ 
+
+entreprise test
+
+10 rue de la gare
+
+44170 Abbaretz
+Block 8:
+Siret $01.568,516,00014 Code APE: 6201Z
+Block 9:
+SARL au capital de 10000 euros
+
+   
+
+MODEDEREGLEMENT )  DATED'ECHEANCE | TVA Intracommunautaire
+C J
+Block 10:
+(wi072008
+Block 11:
+) C FR67501566616
+References : FACTURE EN EUROS N°10003567 _Livraison
+TVA] _ Code Tibelle
+Block 12:
+Quantite
+Block 13:
+| Unite |
+Block 14:
+P.ULHT. |
+Block 15:
+MTAT.
+2 |
+Block 16:
+FoRM2 — fromation autres (niveau 24, dénomination R27) 2 joumee 4400.00 2701.83
+frais de déptacement
+Block 17:
+compris
+2
+Block 18:
+| HEBER frais de gestion (remise : 10 %) 1 write 52.20 so7
+|socument envoyés par courier
+2 | prestis — |ouide
+Block 19:
+utitsateur otter 1 unite 0.00
+Block 20:
+0.00
+Palement  réception de la facture
+Le Total HT tient compte dune remise de 100 euros,
+Block 21:
+soit 3.51%
+(___ BASES HT mrtva_[%tva | TOTAUX [euRos
+z 275220 3243] 1960 yorune
+Block 22:
+| 320163
+wn: 275220
+Block 23:
+acouore 0.00
+twa: 53343 neraraver | 329163
+Block 1:
+COGIVEA SARL
+85 rue des maréchaux
+
+79410 Echiré
+Siret : 5015666160014
+
+Vendeur : nom
+Block 2:
+prenom
+
+PAGE
+
+facture en € n°
+Block 3:
+: 10003567
+
+DATE
+
+1/07/2008 |
+Block 4:
+wZzyWEndTXp_
+
+CLIENT
+
+ 
+
+entreprise test
+
+10 rue de la gare
+
+44170 Abbaretz
+Block 8:
+Siret $01.568,516,00014 Code APE: 6201Z
+Block 9:
+SARL au capital de 10000 euros
+
+   
+
+MODEDEREGLEMENT )  DATED'ECHEANCE | TVA Intracommunautaire
+C J
+Block 10:
+(wi072008
+Block 11:
+) C FR67501566616
+References : FACTURE EN EUROS N°10003567 _Livraison
+TVA] _ Code Tibelle
+Block 12:
+Quantite
+Block 13:
+| Unite |
+Block 14:
+P.ULHT. |
+Block 15:
+MTAT.
+2 |
+Block 16:
+FoRM2 — fromation autres (niveau 24, dénomination R27) 2 joumee 4400.00 2701.83
+frais de déptacement
+Block 17:
+compris
+2
+Block 18:
+| HEBER frais de gestion (remise : 10 %) 1 write 52.20 so7
+|socument envoyés par courier
+2 | prestis — |ouide
+Block 19:
+utitsateur otter 1 unite 0.00
+Block 20:
+0.00
+Palement  réception de la facture
+Le Total HT tient compte dune remise de 100 euros,
+Block 21:
+soit 3.51%
+(___ BASES HT mrtva_[%tva | TOTAUX [euRos
+z 275220 3243] 1960 yorune
+Block 22:
+| 320163
+wn: 275220
+Block 23:
+acouore 0.00
+twa: 53343 neraraver | 329163
+Block 1:
+COGIVEA SARL
+85 rue des maréchaux
+
+79410 Echiré
+Siret : 5015666160014
+
+Vendeur : nom
+Block 2:
+prenom
+
+PAGE
+
+facture en € n°
+Block 3:
+: 10003567
+
+DATE
+
+1/07/2008 |
+Block 4:
+wZzyWEndTXp_
+
+CLIENT
+
+ 
+
+entreprise test
+
+10 rue de la gare
+
+44170 Abbaretz
+Block 8:
+Siret $01.568,516,00014 Code APE: 6201Z
+Block 9:
+SARL au capital de 10000 euros
+
+   
+
+MODEDEREGLEMENT )  DATED'ECHEANCE | TVA Intracommunautaire
+C J
+Block 10:
+(wi072008
+Block 11:
+) C FR67501566616
+References : FACTURE EN EUROS N°10003567 _Livraison
+TVA] _ Code Tibelle
+Block 12:
+Quantite
+Block 13:
+| Unite |
+Block 14:
+P.ULHT. |
+Block 15:
+MTAT.
+2 |
+Block 16:
+FoRM2 — fromation autres (niveau 24, dénomination R27) 2 joumee 4400.00 2701.83
+frais de déptacement
+Block 17:
+compris
+2
+Block 18:
+| HEBER frais de gestion (remise : 10 %) 1 write 52.20 so7
+|socument envoyés par courier
+2 | prestis — |ouide
+Block 19:
+utitsateur otter 1 unite 0.00
+Block 20:
+0.00
+Palement  réception de la facture
+Le Total HT tient compte dune remise de 100 euros,
+Block 21:
+soit 3.51%
+(___ BASES HT mrtva_[%tva | TOTAUX [euRos
+z 275220 3243] 1960 yorune
+Block 22:
+| 320163
+wn: 275220
+Block 23:
+acouore 0.00
+twa: 53343 neraraver | 329163
